@@ -137,10 +137,6 @@ body {
     align-self: center;
 }
 
-.separator {
-    margin: 30px auto;
-}
-
 /* Popular Posts */
 .popular-posts__title {
     margin-bottom: 20px;
